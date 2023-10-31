@@ -1,27 +1,24 @@
 <p align="center">
     <img src="https://www.fitaacademy.in/includes/assets/img/blog/software-testing.jpg" alt="testing" />
 </p>
-
 <h1 align="center">Software Testing</h1>
 
-
-
-👋 Welcome! I'm currently taking a QA(Quality Assurance) course, and I've decided to share my notes right here 📓. I believe that taking notes helps us learn better, and I hope these notes can be valuable to others interested in QA engineering 🧪. Feel free to use this repository as a starting point 🚀, make edits to suit your needs 🖊️, and embark on an exciting journey into the world of QA 🌐. 
+Welcome! 👋 I'm currently taking a QA(Quality Assurance) course, and I've decided to share my notes right here 📓. I believe that taking notes helps us learn better, and I hope these notes can be valuable to others interested in QA engineering 🧪. Feel free to use this repository as a starting point 🚀, make edits to suit your needs 🖊️, and embark on an exciting journey into the world of QA 🌐. 
 
 Happy coding ✨, and let's explore the realm of quality assurance together! 🌟
 
 ---
 
-# Introduction to Software Testing & Software Testing Lifecycle 🧪
+# Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
 
-## What is Software Testing? 🚀
+### What is Software Testing? 🚀
 At its core, software testing is the process of evaluating a software application to identify and fix any issues or discrepancies. These issues could range from minor glitches to critical malfunctions that could affect user experience, security, or functionality. Software testing aims to ensure that the software performs as intended and meets user expectations.
 
-## Why is Software Testing Important? 🌐
+### Why is Software Testing Important? 🌐
 Imagine using a mobile app that crashes every time you open it or a website that doesn't load properly. Frustrating, right? This is where software testing becomes crucial. It helps detect and eliminate such problems, ensuring that the software works smoothly, performs efficiently, and offers a seamless experience to users. Moreover, testing also safeguards against potential security vulnerabilities.
 
-# The Software Testing Lifecycle (STLC) 🤖
+# The Software Testing Lifecycle (STLC) 🧪
 The Software Testing Lifecycle (STLC) is a systematic process that guides the testing of software applications. It comprises several well-defined phases, each with its unique purpose and activities. Let's take a closer look:
 
 1. Requirement Analysis 📊 </br>
