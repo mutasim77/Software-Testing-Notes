@@ -9,6 +9,48 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 
 ---
 
+# Table of Contents
+
+- [1. Introduction to Software Testing 🦋](#1-introduction-to-software-testing-)
+  - [What is Software Testing? 🚀](#what-is-software-testing-)
+  - [Why is Software Testing Important? 🌐](#why-is-software-testing-important-)
+- [2. The Software Testing Lifecycle (STLC) 🧪](#2-the-software-testing-lifecycle-stlc-)
+- [3. Software Requirements: Requirements Analysis 🔍](#3-software-requirements-requirements-analysis-)
+  - [User Story vs User Cases 📝](#user-story-vs-user-cases-)
+  - [Requirements testing: 🧩](#requirements-testing-)
+  - [What do we want from the analysis? 📊](#what-do-we-want-from-the-analysis-)
+  - [Smart Requirements 🧠](#smart-requirements-)
+  - [Use Flow Diagram 🌐](#use-flow-diagram-)
+  - [Prototypes: 🤖](#prototypes-)
+  - [Work Breakdown Structure (WBS): 🚀](#work-breakdown-structure-wbs-)
+  - [Key Takeaways: 🔐](#key-takeaways-)
+- [4. Test Types and Levels 📈](#4-test-types-and-levels-)
+  - [Functional & Non-Functional Testing 💮](#functional-non-functional-testing-)
+  - [Functional vs. Non-functional Testing: 🆚](#functional-vs-non-functional-testing-)
+  - [Testing Types Based on System Access: 🧩](#testing-types-based-on-system-access-)
+  - [Typical Test Objects: 💡](#typical-test-objects-)
+  - [Key Takeaways 🔐](#key-takeaways-)
+- [5. Test Documentation 📝](#5-test-documentation-)
+  - [Types of Test Documentation 📓](#types-of-test-documentation-)
+  - [Key Takeaways 🔐](#key-takeaways-)
+- [6. Test Design Techniques 🧩](#6-test-design-techniques-)
+  - [Black-box Test Design Techniques: ⚫️📊](#black-box-test-design-techniques-)
+    - [1. Equivalence Partitioning 🧪](#1-equivalence-partitioning-)
+    - [2. Boundary Values 🛠️](#2-boundary-values-)
+    - [3. Pairwise Testing 🌐](#3-pairwise-testing-)
+    - [4. Decision Table Testing 📓](#4-decision-table-testing-)
+    - [5. State Transition Testing 🧩](#5-state-transition-testing-)
+  - [Key Takeaways 🔐](#key-takeaways-)
+- [7. Defects and Bug Tracking 🐛](#7-defects-and-bug-tracking-)
+  - [Mistake, Defect, and Failure in Software: 📈](#mistake-defect-and-failure-in-software-)
+  - [Bug Report 📝](#bug-report-)
+  - [Severity vs. Priority](#severity-vs-priority)
+  - [Bug Life Cycle 🐛](#bug-life-cycle-)
+  - [Bug Report Resolution: 📓](#bug-report-resolution-)
+  - [Bug Tracking System: 📈🛡️](#bug-tracking-system-)
+  - [Key Takeaways 🔐](#key-takeaways-)
+
+
 # Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
 
