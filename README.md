@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://www.fitaacademy.in/includes/assets/img/blog/software-testing.jpg" alt="testing" />
 </p>
-<h1 align="center">Software Testing</h1>
+<h1 align="center">Software Testing🧪📊</h1>
 
 Welcome! 👋 I'm currently taking a QA(Quality Assurance) course, and I've decided to share my notes right here 📓. I believe that taking notes helps us learn better, and I hope these notes can be valuable to others interested in QA engineering 🧪. Feel free to use this repository as a starting point 🚀, make edits to suit your needs 🖊️, and embark on an exciting journey into the world of QA 🌐. 
 
