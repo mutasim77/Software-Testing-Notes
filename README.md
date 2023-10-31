@@ -9,7 +9,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 
 ---
 
-# Table of Contents
+## Table of Contents 📬
 
 - [1. Introduction to Software Testing 🦋](#introduction-to-software-testing-)
   - [What is Software Testing? 🚀](#what-is-software-testing-)
