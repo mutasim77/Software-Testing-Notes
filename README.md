@@ -11,11 +11,11 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 
 # Table of Contents
 
-- [1. Introduction to Software Testing 🦋](#1-introduction-to-software-testing-)
+- [1. Introduction to Software Testing 🦋](#introduction-to-software-testing-)
   - [What is Software Testing? 🚀](#what-is-software-testing-)
   - [Why is Software Testing Important? 🌐](#why-is-software-testing-important-)
-- [2. The Software Testing Lifecycle (STLC) 🧪](#2-the-software-testing-lifecycle-stlc-)
-- [3. Software Requirements: Requirements Analysis 🔍](#3-software-requirements-requirements-analysis-)
+- [2. The Software Testing Lifecycle (STLC) 🧪](#the-software-testing-lifecycle-stlc-)
+- [3. Software Requirements: Requirements Analysis 🔍](#software-requirements-requirements-analysis-)
   - [User Story vs User Cases 📝](#user-story-vs-user-cases-)
   - [Requirements testing: 🧩](#requirements-testing-)
   - [What do we want from the analysis? 📊](#what-do-we-want-from-the-analysis-)
