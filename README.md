@@ -1,44 +1,81 @@
-# Quality Assurance (QA
+<p align="center">
+    <img src="https://www.fitaacademy.in/includes/assets/img/blog/software-testing.jpg" alt="testing" />
+</p>
 
-Created: September 18, 2023 4:59 AM
-Tags: Article, Notes
-📝 Homework: Research about big tech companies (https://www.notion.so/Research-about-big-tech-companies-15eeee77e46743399853dd8b6237e918?pvs=21)
+<h1 align="center">Software Testing</h1>
 
-![https://blog.qasource.com/hubfs/top-10-best-software-QA-testing-companies-in-USA-for-2023.png](https://blog.qasource.com/hubfs/top-10-best-software-QA-testing-companies-in-USA-for-2023.png)
+
+
+👋 Welcome! I'm currently taking a QA(Quality Assurance) course, and I've decided to share my notes right here 📓. I believe that taking notes helps us learn better, and I hope these notes can be valuable to others interested in QA engineering 🧪. Feel free to use this repository as a starting point 🚀, make edits to suit your needs 🖊️, and embark on an exciting journey into the world of QA 🌐. 
+
+Happy coding ✨, and let's explore the realm of quality assurance together! 🌟
 
 ---
 
-# **Software Requirements: Requirements Analysis**
+# Introduction to Software Testing & Software Testing Lifecycle 🧪
+Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
 
+## What is Software Testing? 🚀
+At its core, software testing is the process of evaluating a software application to identify and fix any issues or discrepancies. These issues could range from minor glitches to critical malfunctions that could affect user experience, security, or functionality. Software testing aims to ensure that the software performs as intended and meets user expectations.
+
+## Why is Software Testing Important? 🌐
+Imagine using a mobile app that crashes every time you open it or a website that doesn't load properly. Frustrating, right? This is where software testing becomes crucial. It helps detect and eliminate such problems, ensuring that the software works smoothly, performs efficiently, and offers a seamless experience to users. Moreover, testing also safeguards against potential security vulnerabilities.
+
+# The Software Testing Lifecycle (STLC) 🤖
+The Software Testing Lifecycle (STLC) is a systematic process that guides the testing of software applications. It comprises several well-defined phases, each with its unique purpose and activities. Let's take a closer look:
+
+1. Requirement Analysis 📊 </br>
+The first step in the STLC involves understanding the project requirements. Testing teams review these requirements to establish a comprehensive testing strategy. It's crucial to identify what needs to be tested, define testing objectives, and prepare a test plan.
+
+2. Test Planning 💡 </br>
+Once the requirements are clear, the test planning phase begins. Testers create a detailed test plan that outlines the testing scope, objectives, resources, and schedules. This plan acts as a roadmap for the entire testing process.
+
+3. Test Design 🛠️ </br>
+In this phase, test cases and test scripts are developed. These are step-by-step instructions that testers follow to conduct various tests. Test data and expected results are also prepared at this stage.
+
+4. Test Environment Setup 📝 </br>
+A suitable testing environment is essential for accurate testing. It replicates the real-world conditions in which the software will be used. This phase involves configuring the necessary hardware and software components for testing.
+
+5. Test Execution 🧩 </br>
+Now, it's time to put the test cases into action. Testers execute the tests as per the test plan, record the results, and compare them against expected outcomes. Any discrepancies are reported as defects.
+
+6. Defect Reporting 🔍 </br>
+When defects are identified during test execution, they are documented and reported to the development team. Clear and detailed bug reports help developers understand and resolve the issues efficiently.
+
+7. Defect Re-Testing 🖊️ </br>
+After the developers fix the reported defects, they are passed back to the testing team for re-testing. This ensures that the issues are resolved and the software is functioning correctly.
+
+8. Regression Testing 📈 </br>
+Changes made to the software can sometimes introduce new defects or impact existing functionality. Regression testing is carried out to ensure that no new issues arise as a result of these changes.
+
+9. Test Closure 🎯 </br>
+The final phase involves evaluating whether the testing goals have been met, and all test cases have been executed. A test summary report is prepared to document the testing process, its outcomes, and any remaining open issues.
+
+
+# Software Requirements: Requirements Analysis 🔍
 Requirements are a specification of what should be implemented. They are descriptions of how the system should behave, or of a system property or attribute
 
-### User Story vs User Cases
+### User Story vs User Cases 📝
+- User story is a simplified form of many users interacting with a software. 
+- Use cases are very specific in relation to user stories.
+- They describe specific user actions with any system.
 
-**User story is a simplified form of many users interacting with a software.** **Use cases are very specific in relation to user stories**. They describe specific user actions with any system.
 
----
+### Requirements testing: 🧩
+- Unaccounted for dependencies
+- Testability
+- Alternative flows in the business scenarios
+- Check that there are no inconsistencies
+- General logic about users’ feelings
 
-### Requirements testing:
 
-• Unaccounted for dependencies
-• Testability
-• Alternative flows in the business scenarios
-• Check that there are no inconsistencies
-• General logic about users’ feelings
+### What do we want from the analysis? 📊
+- Understanding business processes and the meaning of the user story
+- Acceptance criteria
+- Custom scripts
+- Dependency analysis and impact on existing functionality
 
----
-
-### What do we want from the analysis?
-
-• Understanding business processes and the meaning of the user story
-• Acceptance criteria
-• Custom scripts
-• Dependency analysis and impact on existing functionality
-
----
-
-### Smart Requirements
-
+### Smart Requirements 🧠
 Smart requirements are specific, measurable, achievable, relevant, and time-bound. They help ensure that project goals and objectives are well-defined and attainable. Here's a brief explanation of each component:
 
 1. Specific: Requirements should be clear and precise, leaving no room for ambiguity. They should answer the who, what, when, where, and why of a project.
@@ -49,30 +86,22 @@ Smart requirements are specific, measurable, achievable, relevant, and time-boun
 
 By adhering to SMART requirements, project managers and stakeholders can enhance project clarity, control, and success.
 
----
 
-### Use Flow Diagram
-
+### Use Flow Diagram 🌐
 A flow diagram is a visual representation of a process or system that uses symbols and arrows to illustrate the sequence of steps or components. It helps in understanding, analyzing, and communicating complex processes, making information more accessible and structured.
 
-### Prototypes:
-
+### Prototypes: 🤖
 Prototypes are simplified, early versions of a product or system used to visualize, test, and refine its design and functionality. They help stakeholders better understand the final product and identify potential improvements or issues before full-scale development.
 
-### Work Breakdown Structure (WBS):
-
+### Work Breakdown Structure (WBS): 🚀
 A Work Breakdown Structure is a hierarchical diagram that breaks a project into smaller, manageable tasks or work packages. It provides a structured framework for organizing and planning project activities, making it easier to assign responsibilities, estimate resources, and track progress.
 
----
 
-## Key Takeaways:
-
+## Key Takeaways: 🐛
 - Main two types of requirements: use cases and user stories
 - The whole development team works with the requirements
 - There are some requirements how the "ideal requirement" should look (SMART approach)
 - Requirements testing approaches: User flow diagram, Prototypes and Work Breakdown Structure
-
----
 
 # Test Types and Levels
 
@@ -80,9 +109,6 @@ A Work Breakdown Structure is a hierarchical diagram that breaks a project into 
     
     Development levels represent different stages in the creation of a product or system. These stages typically include design, coding, testing, and integration. Each level focuses on specific tasks and goals to gradually build and refine the final product.
     
-
----
-
 - Test Levels:
     
     Test levels refer to distinct phases of the testing process during software development. They range from unit testing (testing individual components) to system testing (testing the entire system's functionality). Test levels ensure comprehensive evaluation of the product's quality and performance at various stages of development.
