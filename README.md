@@ -37,13 +37,13 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
     - [3. Pairwise Testing 🌐](#3-pairwise-testing-)
     - [4. Decision Table Testing 📓](#4-decision-table-testing-)
     - [5. State Transition Testing 🧩](#5-state-transition-testing-)
-- [7. Defects and Bug Tracking 🐛](#7-defects-and-bug-tracking-)
+- [7. Defects and Bug Tracking 🐛](#defects-and-bug-tracking-)
   - [Mistake, Defect, and Failure in Software: 📈](#1-mistake-defect-and-failure-in-software-)
   - [Bug Report 📝](#2-bug-report-)
   - [Severity vs. Priority](#3-severity-vs-priority)
   - [Bug Life Cycle 🐛](#4-bug-life-cycle-)
   - [Bug Report Resolution: 📓](#5-bug-report-resolution-)
-  - [Bug Tracking System: 📈🛡️](#6-bug-tracking-system-)
+  - [Bug Tracking System: 📈🛡️](#6-bug-tracking-system-%EF%B8%8F)
 
 
 # Introduction to Software Testing 🦋
