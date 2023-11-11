@@ -44,13 +44,13 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Bug Life Cycle 🐛](#4-bug-life-cycle-)
   - [Bug Report Resolution: 📓](#5-bug-report-resolution-)
   - [Bug Tracking System: 📈🛡️](#6-bug-tracking-system-%EF%B8%8F)
-- [8. Client Server Architecture API Testing 🦋](#client-server-architecture-api-testing)
-  - [Client 👻](#client)
-  - [Server 👾](#server)
+- [8. Client Server Architecture API Testing 🦋](#client-server-architecture-api-testing-)
+  - [Client 👻](#client-)
+  - [Server 👾](#server-)
   - [Types of Client-Server Architecture 👽](types-of-client-server-architecture-)
-  - [Peer-to-peer 🤝](#peer-to-peer)
-  - [OSI models 👀](#osi-models)
-  - [Application Programming Interface (API) 🥷🏻](application-programming-interface-)
+  - [Peer-to-peer 🤝](#peer-to-peer-)
+  - [OSI models 👀](#osi-models-)
+  - [Application Programming Interface (API) 🥷🏻](application-programming-interface-api-)
 
 # Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
