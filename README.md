@@ -44,7 +44,13 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Bug Life Cycle 🐛](#4-bug-life-cycle-)
   - [Bug Report Resolution: 📓](#5-bug-report-resolution-)
   - [Bug Tracking System: 📈🛡️](#6-bug-tracking-system-%EF%B8%8F)
-
+- [8. Client Server Architecture API Testing 🦋](#client-server-architecture-api-testing)
+  - [Client 👻](#client)
+  - [Server 👾](#server)
+  - [Types of Client-Server Architecture 👽](types-of-client-server-architecture-)
+  - [Peer-to-peer 🤝](#peer-to-peer)
+  - [OSI models 👀](#osi-models)
+  - [Application Programming Interface (API) 🥷🏻](application-programming-interface-)
 
 # Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
@@ -435,3 +441,83 @@ A system for receiving and filing bugs reported in a software project and tracki
 6.  Priority is the level of importance
 7. The main workflow for bugs is: New, Assigned, Resolved, Closed
 8.  Bug Tracking Systems all provide the same basic functionality
+
+
+# Client Server Architecture API Testing 🦋
+
+Client-server architecture is a computing model where a central server hosts and delivers resources to clients. This gives the server complete control over the network and its devices. Users can access any file on the central storage, and resources can be easily shared across different platforms.
+
+Here is a breakdown of the bullet points:
+
+- The server has complete control over the network and its devices.
+- All devices in the network can be controlled centrally.
+- Users can access any file on the central storage at any time.
+- Resources can be easily shared across different platforms.
+
+### Client 👻
+A **user** is a person who interacts with a software application,
+system, or device to achieve a certain goal or task. The user is
+the individual for whom the technology is designed and who
+uses it to perform actions, access information, or utilize services
+
+### Server 👾
+A server is a specialized computer hardware system or software
+application designed to provide services, resources, or data to
+other computers, devices, or clients over a network
+
+- **Service Provider**: A server provides services to other devices over a network. For example, a web server provides the web pages that you view when you visit a website.
+- **Centralized Processing**: A server can be used to centralize the processing of data and applications. This can improve performance and efficiency.
+- **Always On**: Servers are typically designed to be always on, so that they are always available to provide services to clients.
+- **Communication Hub**: A server can act as a communication hub for devices on a network. For example, a mail server can be used to send and receive emails between -devices on a network.
+- **Data Storage**: A server can be used to store data for other devices on a network. This can make it easier to access and share data.
+- **Security and Access Control**: A server can be used to implement security measures and control access to data and resources.
+- **Scalability**: Servers can be scaled up or down to meet the needs of a growing or shrinking network.
+
+### Types of Client-Server Architecture 👽
+1. 1-Tier (Single Computer, Monolith) - This kind of architecture contains all sorts of settings on a single device
+2. 2-Tier Client Server Architecture, the whole application logic is divided into 2 parts. The database logic and business logic need to be maintained, where this logic is stored either on the client’s end or the server’s end. When the logic is stored on the client’s end, the architecture is called “fat client, thin server” However, if the logic is handled by the server then we call it “thin client, fat server”.
+3. 3-Tier architecture all three layers, the presentation layer, the application layer, and the database, layer are placed at different points.
+
+### Peer-to-Peer 🤝
+Peer-to-peer (P2P) is a network where computers share files and resources directly with each other, without the need for a central server. This is in contrast to the traditional client-server model, where computers communicate with a central server to access files and resources.
+
+### OSI model 👀
+The 7 layers of the OSI model are a conceptual framework for understanding how networks work. Each layer performs a specific function, and the layers work together to provide reliable and efficient communication between devices.
+
+- Layer 7: Application
+This layer provides services to end-user applications, such as web browsers, email clients, and file transfer programs.
+- Layer 6: Presentation
+This layer formats data for the application layer and handles encryption and decryption.
+- Layer 5: Session
+This layer manages the communication session between two devices, such as setting up and tearing down the connection.
+- Layer 4: Transport
+This layer ensures reliable end-to-end communication between two devices. It also provides services such as flow control and congestion control.
+- Layer 3: Network
+This layer routes data packets between different networks. It also provides services such as IP addressing and subnetting.
+- Layer 2: Data Link
+This layer controls how data is transmitted over a physical link. It also provides services such as error detection and correction.
+- Layer 1: Physical
+This layer is responsible for the physical transmission of data over a medium, such as a cable or radio waves.
+
+### Application Programming Interface (API) 🥷🏻
+**SOAP vs. REST**
+• SOAP is a protocol whereas REST is an architectural pattern.
+• SOAP uses service interfaces to expose its functionality to client
+applications while REST uses Uniform Service locators to
+access the components on the hardware device.
+• Comparing SOAP vs REST APIs, SOAP only works with XML
+formats whereas REST work with plain text, XML, HTML, and
+JSON.
+• SOAP cannot make use of REST whereas REST can make use
+of SOAP.
+
+## Key Takeaways 🔐
+1. Client server architecture is a part of a networking model that
+allows multi-user updates through a graphical user interface to
+a shared database
+2. API testing has the ability to improve test coverage and
+efficiency, secure the system, and much more
+ - Earlier Validation
+ - Easier Test Maintenance
+ - Faster Time to Resolution
+ - Speed and Coverage
