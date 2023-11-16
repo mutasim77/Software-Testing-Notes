@@ -646,15 +646,15 @@ Degree of effectiveness and efficiency with which system can be transferred from
 ## Desktop Application Testing 🖥
 
 Works on a desktop Operation System
-• Requires installation
-• Better use of computer resources, better performance
-• Can use various components and devices connected to a Personal Computer (laptop), like a webcam, microphone, printer, etc.
-• Can vary in complexity – from calculator and notepad to engineering calculation and video rendering
+- Requires installation
+- Better use of computer resources, better performance
+- Can use various components and devices connected to a Personal Computer (laptop), like a webcam, microphone, printer, etc.
+- Can vary in complexity – from calculator and notepad to engineering calculation and video rendering
 
 ### Functional Testing
 Desktop applications usually differ in terms of complexity and functionality.
-• Test individual features and functions of the application to ensure they work as intended.
-• Verify that the application performs calculations, processes data, and executes tasks accurately.
+- Test individual features and functions of the application to ensure they work as intended.
+- Verify that the application performs calculations, processes data, and executes tasks accurately.
 
 ### Performance Testing
 - Resource Utilization: Desktop applications have access to the full resources of the user's computer, including CPU, memory, and storage. They can efficiently utilize these resources to deliver high-performance experiences.
@@ -667,36 +667,36 @@ Desktop applications usually differ in terms of complexity and functionality.
 
 ### Usability Testing 👌
 Perform usability testing to evaluate how easily users can navigate the application, learn its features, and perform tasks. Assess the application's user interface for attractiveness.
-• Understandability
-• Learnability
-• Operability
-• Attractiveness
+- Understandability
+- Learnability
+- Operability
+- Attractiveness
 
 ### Reliability Testing ⚙️
 The primary goal is to ensure that the desktop application functions consistently without crashes, errors, or unexpected failures, even under prolonged use and varying conditions.
-• Stress and Load Testing
-• Performance Monitoring
-• Long-Running Tests
+- Stress and Load Testing
+- Performance Monitoring
+- Long-Running Tests
 
 ### Security Testing 🔒
-• Access to Application - Some programs only need the basic permissions allowed by the OS, others require granting the user more control through administrative privileges.
-• Authentication and Authorization
-• Data Protection (Data Encryption) - data is properly encrypted during storage and transmission.
-• Input Validation and Sanitization
+- Access to Application - Some programs only need the basic permissions allowed by the OS, others require granting the user more control through administrative privileges.
+- Authentication and Authorization
+- Data Protection (Data Encryption) - data is properly encrypted during storage and transmission.
+- Input Validation and Sanitization
 
 ### Maintainability Testing 🛠️
-• Modularity – the degree to which a system or computer program is composed of discrete components, so that a change to one component has minimal impact on other components.
-• Reusability – the degree to which an asset can be used in more than one system, or in building other assets.
-• Modifiability – the degree to which a product or system can be effectively and efficiently modified without introducing faults or degrading existing product quality.
+- Modularity – the degree to which a system or computer program is composed of discrete components, so that a change to one component has minimal impact on other components.
+- Reusability – the degree to which an asset can be used in more than one system, or in building other assets.
+- Modifiability – the degree to which a product or system can be effectively and efficiently modified without introducing faults or degrading existing product quality.
 
 ### Portability Testing 🌐
-• Install - software can be installed successfully without any critical errors or failures.
-• Upgrade – the ability to upgrade from a previous version.
-• Clean Uninstallation - software can be uninstalled cleanly, removing all installed files, registry entries, and associated components.
-• Recovery Point – the system can be restored to its previous state after uninstalling the software.
+- Install - software can be installed successfully without any critical errors or failures.
+- Upgrade – the ability to upgrade from a previous version.
+- Clean Uninstallation - software can be uninstalled cleanly, removing all installed files, registry entries, and associated components.
+- Recovery Point – the system can be restored to its previous state after uninstalling the software.
 
 ### Key Takeaways
-• Desktop applications run on various operating systems (e.g., Windows, macOS, Linux) and may have different versions for each.
-• Installation and Configuration: Verification of the installation process, ensuring that the application can be installed, updated, and uninstalled without issues.
-• Offline Functionality: Unlike web applications, desktop apps can operate offline.
-• Resource Utilization: Desktop applications have access to the local machine's resources (CPU, memory, storage). 
+- Desktop applications run on various operating systems (e.g., Windows, macOS, Linux) and may have different versions for each.
+- Installation and Configuration: Verification of the installation process, ensuring that the application can be installed, updated, and uninstalled without issues.
+- Offline Functionality: Unlike web applications, desktop apps can operate offline.
+- Resource Utilization: Desktop applications have access to the local machine's resources (CPU, memory, storage). 
