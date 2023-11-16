@@ -526,3 +526,119 @@ efficiency, secure the system, and much more
  - Easier Test Maintenance
  - Faster Time to Resolution
  - Speed and Coverage
+
+
+# Specifics of Different Applications Testing 👒
+
+## Web Application Testing 💻
+A **web application** is software that utilizes web browsers and web technologies to perform tasks over the Internet.
+A web application has a client-server architecture, so test process should take into account all three parts to verify - the client, the server and communication (API).
+
+
+### Functional Testing:
+- Completeness: All specified tasks and user objectives are covered.
+- Correctness: Results are accurate and precise.
+
+**Client Side:**
+- Navigation, Forms, Data Display and Interaction, Validation Messages, etc.
+- Localization and Internationalization
+
+**Server Side:**
+- Test the server's API endpoints by sending requests and validating the responses;
+- Ensure that the server interacts correctly with the database by testing data retrieval, insertion, updating, and deletion operations.
+
+### Performance Testing 🚀
+This characteristic represents the performance relative to the amount of resources used under stated conditions:
+- Time behavior – the response and processing times of a product when performing its functions.
+-Resource utilization – the amount and type of resources used by a product, when performing its functions
+
+**Client Side:**
+- Load Time and Page Speed Testing.
+- Resource Optimization - excessive resource usage (e.g., memory, CPU) on the client side.
+- Caching
+
+**Server Side:**
+- Load Testing - how well the server performs under heavy loads by simulating a large number of concurrent users or requests.
+- Performance Testing - measuring response times and resource utilization. Identify and address bottlenecks.
+
+### Compatibility Testing 🔄
+A compatibility test is an assessment used to ensure a software application is properly working across different browsers, databases, operating systems (OS), mobile devices, networks and hardware.
+
+**Client Side:**
+- Browser Compatibility - test the application on different web browsers (e.g., Chrome, Firefox, Safari, Edge).
+- Cross-Device and Cross-Platform Testing:
+  - Mobile - application is functional and responsive on various mobile devices and screen sizes.
+  - Cross-Platform: Test the application on different operating systems (e.g., Windows, macOS, iOS, Android).
+ 
+**Server Side:**
+- Test the server-side application on different environments, platforms, and configurations to ensure it works correctly across various setups.
+
+### Usability Testing 👌
+The degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction within a specified context of use:
+- Appropriateness recognizability
+- Operability
+- User error protection
+- User interface aesthetics
+- Accessibility
+
+**Client Side:**
+- User Experience (UX) Testing:
+   - Usability Testing - user-friendliness of the application.
+   - Accessibility Testing - ensure the application is accessible to users with disabilities
+
+### Reliability Testing ⚙️
+Degree to which a system or component performs specified functions under specified conditions for a specified period of time:
+- Availability – the system is operational and accessible.
+- Fault tolerance – the system operates as intended despite the presence of hardware or software faults.
+- Recoverability
+
+**Client Side:**
+- Offline Functionality Testing - Test how the application behaves when the user is offline or in low-network conditions if it includes offline capabilities
+
+**Server Side:**
+- Availability – business logic (endpoints) are available upon client requests
+- Failover and Recovery – the ability to recover gracefully from failures, including hardware failures, network issues, and software crashes.
+
+### Security Testing 🔒
+Degree to which system protects information and data so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization:
+- Confidentiality
+- Integrity
+- Authenticity
+
+**Client Side:**
+- Authentication and Authorization
+- Client-Side Security - common client-side security vulnerabilities such as Cross-Site Scripting and Cross-Site Request Forgery
+
+**Server Side:**
+- Test the server for vulnerabilities and security issues, including SQL injection, cross-site scripting (XSS), and other common security threats.
+- Authentication
+
+### Maintainability Testing 🛠️
+This characteristic represents the degree of effectiveness and efficiency with which a product or system can be modified to improve it, correct it or adapt it to changes in environment, and in requirements:
+- Modularity
+- Analyzability
+- Modifiability
+- Testability
+
+**Client and Server Side:**
+- Clean and Readable Code
+- Modularity - breaking down a software system into smaller, modular components or functions makes it easier to work on individual pieces without affecting the entire system.
+- Error Handling and Logging - Proper error handling and logging mechanisms.
+- Scalability - Designing the system with scalability in mind allows for easier adaptation to increased load
+
+### Portability Testing 🌐
+Degree of effectiveness and efficiency with which system can be transferred from one hardware, software, or other operational or usage environment to another:
+- Adaptability - system can effectively be adapted to different or evolving hardware
+- Installability
+- Replaceability
+
+**Server Side:**
+- Install - software can be installed successfully without any critical errors or failures.
+- Upgrade - ability to upgrade from a previous version.
+- Clean Uninstallation - software can be uninstalledcleanly, removing all installed files, registry entries, and associated components.
+- Recovery Point - system can be restored to its previous state after uninstalling the software
+
+### Key Takeaways 🔐
+- Quality is a combination of various characteristics
+- Despite the various test types carried out, the context of web testing can be different depending on the specifics of the application (e.g., the testing of a bank application can be different from that of an online shop)
+- Frontend and backend validation
