@@ -700,3 +700,65 @@ The primary goal is to ensure that the desktop application functions consistentl
 - Installation and Configuration: Verification of the installation process, ensuring that the application can be installed, updated, and uninstalled without issues.
 - Offline Functionality: Unlike web applications, desktop apps can operate offline.
 - Resource Utilization: Desktop applications have access to the local machine's resources (CPU, memory, storage). 
+
+## Mobile Application Testing 📱
+- A mobile application, often referred to as a "mobile app", is a software program designed specifically to run on mobile devices, such as smartphones and tablets.
+- They are generally small, individual software units with limited
+function:
+  - Gaming
+  - Social Media
+  - Utility
+  - E-commerce
+  - Communication
+ 
+### Functional Testing
+- Application operation when running/exiting meets the basic requirements.
+- Ensure the application goes into the background in the case of an incoming call.
+- Check if the phone can store, receive, and send messages while the application is running.
+- Make sure the device works in multitasking mode when necessary.
+- Ensure the installed application does not prevent the normal operation of other applications and does not consume their memory
+
+### Performance Testing 🚀
+- To determine whether the application performs as per the requirement under different load conditions
+- To validate CPU utilization
+- To determine whether the current network coverage is able to support the application during peak, average, and minimum load levels
+- To evaluate whether the battery life can support the application to perform under projected loads
+
+### Compatibility Testing 🔄
+- Device Compatibility: Mobile devices come in various sizes, resolutions, and hardware configurations.
+- Operating System Compatibility: Mobile apps need to be tested on different versions of the operating systems they support (e.g., iOS, Android).
+- Browser Compatibility: For mobile web apps, compatibility testing involves checking how the app performs on various mobile web browsers like Safari, Chrome, Firefox, and Edge.
+- Third-Party Integrations: Compatibility testing verifies that any third-party libraries, APIs, or services used by the app work seamlessly across various environments.
+
+### Usability Testing 👌
+- Assess User Experience: Determine how users interact with the app, their overall satisfaction, and their ability to achieve their goals while using it
+- Identify Usability Issues: Discover any usability problems, such as confusing navigation, unclear instructions, or frustrating interactions, that may hinder the user experience
+- Gather User Feedback: Collect valuable feedback from real users about what works well in the app and what needs improvement
+- Improve Design and Functionality: Use the insights gained from usability testing to make the necessary design and functionality enhancements to the app
+
+### Reliability Testing ⚙️
+Reliability testing aims to ensure that the software operates as intended consistently, with no unexpected failures or disruptions.
+- Stress and Load Testing
+- Performance Monitoring
+- Long-Running Tests
+
+### Security Testing 🔒
+- Detection of Vulnerabilities: Timely detection of vulnerabilities ensure that flawed application susceptible to malicious attacks isn’t released by the developers.
+- Elimination of Vulnerabilities
+- Maintain Compliance: Mobile applications are strictly required to maintain compliance since many such applications deal with payments and customer personal information.
+- Free of Security Risks: Mobile application security testing successfully secures one’s application against any risks that could result in data breaches, theft, or loss of confidential information.
+
+### Maintainability Testing 🛠️
+- Modularity – the degree to which a system or computer program is composed of discrete components, so that a change to one component has a minimal impact on other components.
+- Reusability – the degree to which an asset can be used in more than one system, or in building other assets.
+- Modifiability – the degree to which a product or system can be effectively and efficiently modified without introducing faults or degrading existing product quality
+
+### Portability Testing 🌐
+- Install - software can be installed successfully without any critical errors or failures.
+- Upgrade - ability to upgrade from a previous version.
+- Clean Uninstallation - software can be uninstalled cleanly, removing all installed files, registry entries, and associated components.
+- Application Markets Policies
+
+### Key Takeaways 🔐
+- There are different types of mobile applications (web, native, hybrid) that require diversity in the specifics of testing
+- The most common issues found in mobile applications are loading problems or a deficient or lacking in performance, unresponsive elements, displaying on various resolutions, etc
