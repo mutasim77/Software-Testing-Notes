@@ -643,7 +643,7 @@ Degree of effectiveness and efficiency with which system can be transferred from
 - Despite the various test types carried out, the context of web testing can be different depending on the specifics of the application (e.g., the testing of a bank application can be different from that of an online shop)
 - Frontend and backend validation
 
-## Desktop Application Testing 🖥️
+## Desktop Application Testing 🖥
 
 Works on a desktop Operation System
 • Requires installation
