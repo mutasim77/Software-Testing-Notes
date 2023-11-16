@@ -642,3 +642,61 @@ Degree of effectiveness and efficiency with which system can be transferred from
 - Quality is a combination of various characteristics
 - Despite the various test types carried out, the context of web testing can be different depending on the specifics of the application (e.g., the testing of a bank application can be different from that of an online shop)
 - Frontend and backend validation
+
+## Desktop Application Testing 🖥️
+
+Works on a desktop Operation System
+• Requires installation
+• Better use of computer resources, better performance
+• Can use various components and devices connected to a Personal Computer (laptop), like a webcam, microphone, printer, etc.
+• Can vary in complexity – from calculator and notepad to engineering calculation and video rendering
+
+### Functional Testing
+Desktop applications usually differ in terms of complexity and functionality.
+• Test individual features and functions of the application to ensure they work as intended.
+• Verify that the application performs calculations, processes data, and executes tasks accurately.
+
+### Performance Testing
+- Resource Utilization: Desktop applications have access to the full resources of the user's computer, including CPU, memory, and storage. They can efficiently utilize these resources to deliver high-performance experiences.
+- Local Execution: Desktop applications run directly on the user's machine, eliminating the need to transmit data and instructions over the internet.
+- Direct Access to Hardware: Desktop applications can directly interact with hardware peripherals and devices connected to the user's computer, such as printers, cameras, and sensors.
+
+### Compatibility Testing 🔄
+- Identify Target Environments: Determine the target platforms, including different versions of operating systems (e.g., Windows 7, Windows 10, macOS) and hardware configurations (e.g., 32-bit vs. 64-bit, different CPU architectures).
+- Device testing: Device testing makes certain that the app functions consistently with each applicable device, such as Bluetooth devices, scanners, printers, etc.
+
+### Usability Testing 👌
+Perform usability testing to evaluate how easily users can navigate the application, learn its features, and perform tasks. Assess the application's user interface for attractiveness.
+• Understandability
+• Learnability
+• Operability
+• Attractiveness
+
+### Reliability Testing ⚙️
+The primary goal is to ensure that the desktop application functions consistently without crashes, errors, or unexpected failures, even under prolonged use and varying conditions.
+• Stress and Load Testing
+• Performance Monitoring
+• Long-Running Tests
+
+### Security Testing 🔒
+• Access to Application - Some programs only need the basic permissions allowed by the OS, others require granting the user more control through administrative privileges.
+• Authentication and Authorization
+• Data Protection (Data Encryption) - data is properly encrypted during storage and transmission.
+• Input Validation and Sanitization
+
+### Maintainability Testing 🛠️
+• Modularity – the degree to which a system or computer program is composed of discrete components, so that a change to one component has minimal impact on other components.
+• Reusability – the degree to which an asset can be used in more than one system, or in building other assets.
+• Modifiability – the degree to which a product or system can be effectively and efficiently modified without introducing faults or degrading existing product quality.
+
+### Portability Testing 🌐
+• Install - software can be installed successfully without any critical errors or failures.
+• Upgrade – the ability to upgrade from a previous version.
+• Clean Uninstallation - software can be uninstalled cleanly, removing all installed files, registry entries, and associated components.
+• Recovery Point – the system can be restored to its previous state after uninstalling the software.
+
+### Key Takeaways
+• Desktop applications run on various operating systems (e.g., Windows, macOS, Linux) and may have different versions for each.
+• Installation and Configuration: Verification of the installation process, ensuring that the application can be installed, updated, and uninstalled without issues.
+• Offline Functionality: Unlike web applications, desktop apps can operate offline.
+• Resource Utilization: Desktop applications have access to the local machine's resources (CPU, memory, storage). 
