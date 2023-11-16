@@ -54,7 +54,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 - [9. Specifics of Different Applications Testing 👒](#specifics-of-different-application-testing-)
   - [Web Application Testing 💻](#web-application-testing-)
   - [Desktop Application Testing 🖥️](#desktop-application-testing-)
-  - [Mobile Application Testing 📱](#-mobile-application-testing-)
+  - [Mobile Application Testing 📱](#mobile-application-testing-)
   - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-application-)
 
 # Introduction to Software Testing 🦋
