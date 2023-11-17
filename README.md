@@ -762,3 +762,76 @@ Reliability testing aims to ensure that the software operates as intended consis
 ### Key Takeaways 🔐
 - There are different types of mobile applications (web, native, hybrid) that require diversity in the specifics of testing
 - The most common issues found in mobile applications are loading problems or a deficient or lacking in performance, unresponsive elements, displaying on various resolutions, etc
+
+# Practical Tips for Testing Different Applications 🔮
+
+## Web Application 💻 
+
+### Web Application Testing – Functionality and UI
+
+UI testing is used to verify if the functional attributes comprising the product's design work according to the user’s expectations, to check the product's simplicity, and that they work as expected.
+- Test forms are working as expected.
+- Test HTML and CSS to ensure that search engines can crawl your site easily.
+- Test that all links on your web pages are working correctly and ensure there are no broken links.
+
+### Web Application Testing – Web API
+In API Testing, instead of using standard user input (keyboard) and output, you use software to send calls to the API, obtain the output, and note the system’s response. API tests are very different from GUI Tests and don’t pay attention to the look and feel of an application. It is mainly concentrated on the business logic layer of the software’s architecture.
+
+### Web Application Testing – Internet Connection
+Network Throttling is an intentional method to slow down the speed of the internet connection. It is used to analyze web performance where network throttling or network condition emulation is used to emulate low bandwidth conditions.
+
+### Web Application Testing – Security
+The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+Security testing of any system is focused on finding all possible loopholes and weaknesses of the system, which might result in a loss of info. It focuses on finding all potential loopholes and weaknesses of the system which might result in the organization’s loss of information or loss of reputation for the organization.
+
+### Web Application Testing – Performance
+Features and Functionality supported by a software system are not the only concern. A software application’s performance, like its response time, reliability, resource usage, and scalability, do matter. The goal of Performance Testing is not to find bugs but to eliminate performance bottlenecks.
+- Load testing
+- Stress testing
+- Endurance testing
+- Volume testing
+
+### Web Application Testing – Cross-browsing
+Browser vendors follow Open Web Standards, but they have their own interpretations of it. Since they each render HTML, CSS, and JavaScript in unique ways, thoroughly debugging your website’s source code is not enough to ensure that your website will look and behave as intended on different browsers (or different versions of a single browser). Cross browser testing helps with that by pinpointing browser-specific compatibility errors.
+
+## Desktop Application 🖥️
+
+### Desktop Application Testing - Installation
+
+- Ensure that the installation process is well-documented.
+- Verify the proper installation of dependencies such as libraries, drivers, and components.
+- Ensure that the installation works properly on the required operating system and hardware configurations.
+- Test the installation on multiple environments, as different hardware and software configurations may cause variations in the process.
+- Check that the program runs after installation
+
+### Desktop Application Testing - Performance
+
+- Measure response times and resource utilization (CPU, memory, disk, network) under load.
+- Evaluate how the application performs under expected user loads.
+- Monitor for memory leaks, crashes, and resource exhaustion
+
+## Mobile Application 📱
+
+### Mobile Native Application Testing
+Mobile native apps need to be tested across various mobile devices and operating systems to check their compatibility, usability, and consistency.
+- For a native app, installation is required but for mobile web apps, no installation is required.
+- Native apps are installed and updated from app stores like Google Play Store or App Store while mobile web apps have centralized updates.
+- Store policies that are designed to deliver apps and games safely to billions of people worldwide
+  - <a href="https://play.google.com/about/developer-content-policy">Play Google Content Policy</a>
+  - <a href="https://developer.apple.com/app-store/review/guidelines">App Store Guidelines</a>
+
+- A mobile device is a system that does not have powerful components, so it can’t operate like a personal computer.
+- Native apps have single-platform affinity while mobile web apps have cross-platform affinity.
+- Native apps work faster when compared to mobile web apps.
+- Check screen orientation in landscape and portrait mode.
+- Native apps built-in device features like camera, location access, push notifications.
+- Connectivity testing with various bandwidths or offline mode.
+- Interruption testing – incoming calls, messages, notifications.
+- Device resources usage – CPU, memory, battery
+- How the application works in energy saving mode
+- How the application behaves when stored in the background
+
+### Key Takeaways 🔐
+- Different applications have their own specifics of operation and testing
+- Functional testing counts to be the main and high priority verification
+- A variety of tools exist that can help QA engineers with their test activities
