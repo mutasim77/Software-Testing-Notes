@@ -55,7 +55,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Web Application Testing 💻](#web-application-testing-)
   - [Desktop Application Testing 🖥️](#desktop-application-testing-)
   - [Mobile Application Testing 📱](#mobile-application-testing-)
-  - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-application-)
+  - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-applications-)
 
 # Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
