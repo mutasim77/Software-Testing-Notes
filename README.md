@@ -875,3 +875,80 @@ The schedule tells you:
 
 ### Quality
 Quality monitoring involves monitoring the results of specific products of the work (like test case suite, test execution log), to evaluate whether they meet the defined quality standards. In case the results do not meet the quality standards, you need to identify potential solutions.
+
+### Why Did You Miss the Deadline?
+- I forgot to monitor and control the project's progress.
+- My team members did not work well.
+- Developers finished their work too late.
+- The test team was very slow with testing.
+- I don’t know why
+
+### Test Control
+Test control is basically about controlling and taking corrective measures based on the results of test monitoring.
+
+Examples include:
+- Prioritizing the testing efforts
+- Revisiting the test schedules and dates
+- Reorganizing the test environment
+- Reprioritizing the test cases/conditions
+
+## Testing Metrics 👀
+
+### What are Software Testing Metrics?
+
+In software testing, a metric is a quantitative measure of the degree to which a system, system component, or process possesses a given attribute. In other words, metrics help to estimate the progress, quality, and health of software testing efforts.
+- A good example of metrics would be the weekly mileage of a car compared to its ideal mileage recommended by the manufacturer.
+
+### Why Do We Need Test Metrics?
+- Take decisions for the next phase of activities.
+- Evidence of claims or predictions.
+- Understand the types of improvements required.
+- Take decisions or make process or technology changes.
+
+### Metrics Lifecycle
+1. Analysis:
+   - Identify the Metric(s) to use.
+   - Define the Metric(s) identified.
+   - Define the parameter(s) for evaluating the metric(s) identified.
+2. Communiqué:
+   - Explain the need for the metric to stakeholders and the testing team.
+   - Educate the testing team about the data points that need to be captured for processing the metric.
+3. Evaluating:
+   - Capture the data.
+   - Verify the data.
+   - Calculating the metric(s) value using the data captured.
+4. Reporting:
+   - Develop the report with an effective conclusion.
+   - Distribute the report to stakeholders and their representatives.
+   - Take feedback from stakeholders.
+
+### Types of Metrics
+1. Process Metrics:
+   - Can be used to improve the process efficiency of the Software Development Life Cycle.
+2. Product Metrics:
+   - Deal with the quality of the software product.
+3. Project Metrics:
+   - Can be used to measure the efficiency of a project team or any tools being used by the team members.
+
+### How to Calculate Test Metrics?
+To understand how to calculate software test metrics, we can look at an example of percentage test cases executed. 
+To obtain the execution status of the test cases as a percentage, we use the formula.
+**Percentage of test cases executed = (Number of test cases executed / Total number of test cases written) x 100**
+Likewise, you can calculate other parameters like _test cases not executed_, _test cases passed_, _test cases failed_, _test cases blocked_, etc.
+
+
+### What are Test Summary Reports?
+A test summary report is a document which contains:
+- A summary of test activities and final test results.
+- An assessment of how well the testing was performed.
+Based on the report, the stakeholders can:
+- Evaluate the quality of the tested product.
+- Decide whether to release the software.
+
+For example, if the test report shows that there’re many defects remaining in the product, the stakeholder can delay the release until all the defects are fixed.
+
+## Key Takeaways
+- Monitoring and Controlling — two processes that Test Manager should do.
+- Software Testing Metrics are essential indicators of the efficiency and effectiveness of software testing processes.
+- Don’t forget about visualization.
+- Test Summary Report — one of the critical instruments to show customers what we are doing.
