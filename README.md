@@ -56,6 +56,8 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Desktop Application Testing 🖥️](#desktop-application-testing-)
   - [Mobile Application Testing 📱](#mobile-application-testing-)
   - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-applications-)
+- [10. Test Metrics and Reporting 📜](#test-metrics-and-reporting-)
+
 
 # Introduction to Software Testing 🦋
 Software testing is a fundamental pillar of the software development process. It plays a pivotal role in ensuring that the software we use is reliable, efficient, and free from defects. In this repo, we'll embark on a journey to explore the fascinating world of software testing, starting with an introduction and a walkthrough of the Software Testing Lifecycle (STLC). So, let's dive in!
@@ -835,3 +837,41 @@ Mobile native apps need to be tested across various mobile devices and operating
 - Different applications have their own specifics of operation and testing
 - Functional testing counts to be the main and high priority verification
 - A variety of tools exist that can help QA engineers with their test activities
+
+# Test Metrics and Reporting 💫
+
+### Test Monitoring and Controlling: Monitoring
+Monitoring is a process of collecting, recording, and reporting information about the project's activities that the project manager and stakeholder need to know.
+
+In order to monitor the process the Test Manager performs the following activities:
+- Defines the project's goals or project's performance standards.
+- Observes the project's performance and compare this to the actual and the planned performance expectations.
+- Records and reports any detected problems which happen with the project.
+
+Controlling is the process of using data from the monitoring activities to bring actual performance up to the level of the planned performance. In this step, the Test Manager takes actions to correct the deviations from the plan. In some cases, the plan has to be adjusted according to the situation with the project.
+
+### Cost-Schedule-Resources-Quality
+Monitoring will allow you to make comparisons between your original plan and your progress so far. You will be able to implement changes, where necessary, to complete the project successfully. You should monitor the key parameters as below:
+- Cost
+- Schedules
+- Resources
+- Quality
+
+### Costs
+- Costs are an important aspect of project monitoring and control.
+- You have to estimate and track the basic cost information for your project.
+- Having accurate project estimates and a robust project budget is necessary to deliver the project within the determined budget.
+
+### Schedule
+The schedule tells you:
+1. When should each activity be done?
+2. What has already been completed?
+3. The sequence in which things need to be finished.
+
+### Resources
+- Resources are everything that is required to carry out the project's tasks.
+- They can be the people or equipment that are required to complete the project.
+- A lack of resources can affect the project's progress.
+
+### Quality
+Quality monitoring involves monitoring the results of specific products of the work (like test case suite, test execution log), to evaluate whether they meet the defined quality standards. In case the results do not meet the quality standards, you need to identify potential solutions.
