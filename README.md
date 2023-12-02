@@ -57,6 +57,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Mobile Application Testing 📱](#mobile-application-testing-)
   - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-applications-)
 - [10. Test Metrics and Reporting 📜](#test-metrics-and-reporting-)
+- [11. Software development methodologies 💫](#software-development-methodologies-)
 
 
 # Introduction to Software Testing 🦋
@@ -952,3 +953,45 @@ For example, if the test report shows that there’re many defects remaining in 
 - Software Testing Metrics are essential indicators of the efficiency and effectiveness of software testing processes.
 - Don’t forget about visualization.
 - Test Summary Report — one of the critical instruments to show customers what we are doing.
+
+
+# Software development methodologies 💫
+
+## Software Development Life Cycle(SDLC) 📑
+A software development lifecycle model defines how different development phases and types of activities performed within this process relate to each other, both logically and chronologically
+- Each phase of a SDLC is followed by a formal review which helps to optimally control the management of it
+- It ensures that all the stakeholders are aware of the project’s state and its planning
+- Provides a plan for management and lowers project risk
+- Delivers high-quality software applications in line with the client’s expectations
+
+## Testing in SDLC 👒
+In any software development lifecycle model, there are several characteristics of good testing:
+- For every development activity, there is a corresponding test activity
+- Each test level has test objectives specific to that level
+- Testers participate in discussions to define and refine requirements and design, and are involved in reviewing work products (e.g., requirements, design, user stories, etc.) as soon as drafts are available
+- No matter which software development lifecycle model is chosen, test activities should start in the early stages of the lifecycle, adhering to the testing principle of early testing.
+
+## Sequential Models ✨
+**What it means**: Following a step-by-step approach in software development, where each phase is completed before moving to the next.
+**Example**: Waterfall model - Planning, then coding, testing, and so on.
+
+### Waterfall Model 🥷🏻
+A sequential development model that describes the software development process as a linear, sequential flow of activities. This means that any phase in the development process should begin when the previous phase is complete. 
+In the Waterfall model, the development activities (e.g., requirements analysis, design, coding, testing) are completed one after another. In this model, test activities only occur after all other development activities have been completed. 
+
+### V-model 💎
+Unlike the Waterfall model, the V-model integrates test processes throughout the development process, implementing the principle of early testing. Furthermore, the V-model includes test levels associated with each corresponding development phase, which further supports early testing. In this model, the execution of tests associated with each test level proceeds sequentially, but in some cases overlapping occurs.
+
+## Iterative and Incremental 🦋
+**What it means**: Developing software in smaller parts, improving and adding features in cycles.
+**Example**: Agile development - Releasing a basic version, then enhancing and adding features in regular iterations.
+
+## Lean 🪄
+**What it means**: Focusing on efficiency, minimizing waste, and delivering value without unnecessary steps.
+**Example**: Lean software development - Streamlining processes, eliminating non-essential tasks to deliver a streamlined product.
+
+## Key Takeaways 🔐 
+- The software development life cycle is an important process for any software development project. It helps create high-quality products, manage time and resources, and track progress more accurately.
+- There are different SDLC models: sequential, iterative, incremental, lean, etc.
+- It must be selected and adapted to the context of the project and product characteristics - project goal, the type of product being developed, business priorities, project risks, etc.
+ 
