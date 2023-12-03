@@ -58,6 +58,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
   - [Practical Tips for Testing Different Applications 🔮](#practical-tips-for-testing-different-applications-)
 - [10. Test Metrics and Reporting 📜](#test-metrics-and-reporting-)
 - [11. Software development methodologies 💫](#software-development-methodologies-)
+- [12. Agile. Testing in Agile 💫](#agile-)
 
 
 # Introduction to Software Testing 🦋
@@ -995,3 +996,4 @@ Unlike the Waterfall model, the V-model integrates test processes throughout the
 - There are different SDLC models: sequential, iterative, incremental, lean, etc.
 - It must be selected and adapted to the context of the project and product characteristics - project goal, the type of product being developed, business priorities, project risks, etc.
  
+
