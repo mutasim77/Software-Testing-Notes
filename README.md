@@ -995,5 +995,3 @@ Unlike the Waterfall model, the V-model integrates test processes throughout the
 - The software development life cycle is an important process for any software development project. It helps create high-quality products, manage time and resources, and track progress more accurately.
 - There are different SDLC models: sequential, iterative, incremental, lean, etc.
 - It must be selected and adapted to the context of the project and product characteristics - project goal, the type of product being developed, business priorities, project risks, etc.
- 
-
