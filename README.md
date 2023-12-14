@@ -60,7 +60,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 - [11. Software development methodologies 💫](#software-development-methodologies-)
 - [12. Agile. Testing in Agile 💫](#agile-)
 - [13. Test Planning 📑](#test-planning-)
-- [14. Basics of Automation Testing. VCS, CI/CD. 💎](#basics-of-automation-)
+- [14. Basics of Automation Testing. VCS, CI/CD. 💎](#basics-of-automation-testing-vcs-cicd-)
 
 
 # Introduction to Software Testing 🦋
