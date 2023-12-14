@@ -60,6 +60,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 - [11. Software development methodologies 💫](#software-development-methodologies-)
 - [12. Agile. Testing in Agile 💫](#agile-)
 - [13. Test Planning 📑](#test-planning-)
+- [14. Basics of Automation Testing. VCS, CI/CD. 💎](#basics-of-automation-)
 
 
 # Introduction to Software Testing 🦋
@@ -1031,3 +1032,32 @@ Unlike the Waterfall model, the V-model integrates test processes throughout the
 ### Test Plan:
 - Definition: A document outlining what you're going to test, how you'll test it, and the resources needed.
 - Example: For testing a new software release, a test plan might include details like which features to test, the testing schedule, the team members responsible for each task, and the testing tools to be used.
+
+
+# Basics of Automation Testing. VCS, CI/CD 💎
+1. Automation: What? Why? When?
+    - What: Using software to perform tests instead of manual execution.
+    - Why: Saves time, increases efficiency, and reduces human errors.
+    - When: Useful for repetitive tasks or when a quick feedback loop is needed.
+    - Example: Automating login tests for a website ensures that different user credentials are validated consistently without manual repetition.
+
+    - Advantages and Disadvantages:
+      - Advantages: Faster execution, repeatability, broader test coverage.
+      - Disadvantages: Initial setup time, maintenance overhead, not suitable for exploratory testing.
+
+2. Automated Testing Processes:
+    - Definition: The step-by-step activities followed in automated testing.
+    - Example: In automated testing, the process might involve writing test scripts, executing them, and analyzing results. It's like teaching a computer to perform specific tests.
+
+3. Types of Tests to Automate:
+   - Definition: Deciding which tests are suitable for automation.
+   - Example: Regression tests (ensuring existing features still work after changes) are often automated, as they need to be repeated frequently.
+  
+4. VCS (Version Control Systems):
+    - Definition: Tools managing changes to source code over time.
+    - Example: Git is a VCS allowing multiple developers to work on a project simultaneously. It tracks changes, enabling collaboration without conflicts.
+
+5. CI/CD:
+- CI (Continuous Integration): Regularly merging code changes into a shared repository.
+- CD (Continuous Deployment/Delivery): Automatically delivering changes to production (Deployment) or preparing changes for release (Delivery).
+- Example: Jenkins is a CI/CD tool that automates building, testing, and deploying code, ensuring new changes are integrated smoothly.
