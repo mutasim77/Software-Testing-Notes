@@ -1015,3 +1015,19 @@ Unlike the Waterfall model, the V-model integrates test processes throughout the
 - Test implementation
 - Test execution
 - Test completion
+
+### Contextual Factors:
+- Definition: These are the conditions and situations that can influence your testing approach.
+- Example: If you're testing a mobile app, the contextual factors could include different devices (phones and tablets) and operating systems (iOS and Android).
+
+### Testing Process:
+- Definition: The step-by-step activities and tasks you follow to ensure a product works as intended.
+- Example: In testing a website, the process may involve checking links, forms, and page navigation. If any link doesn't work or a form doesn't submit properly, that's a part of the testing process to identify and fix those issues.
+
+### Risks in Testing:
+- Definition: Potential problems or challenges that may affect the success of your testing efforts.
+- Example: A risk in testing an e-commerce platform could be insufficient security measures, leading to the possibility of unauthorized access to customer data. Identifying and addressing this risk is crucial to ensure the safety of user information.
+
+### Test Plan:
+- Definition: A document outlining what you're going to test, how you'll test it, and the resources needed.
+- Example: For testing a new software release, a test plan might include details like which features to test, the testing schedule, the team members responsible for each task, and the testing tools to be used.
