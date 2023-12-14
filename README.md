@@ -59,6 +59,7 @@ Happy coding ✨, and let's explore the realm of quality assurance together! �
 - [10. Test Metrics and Reporting 📜](#test-metrics-and-reporting-)
 - [11. Software development methodologies 💫](#software-development-methodologies-)
 - [12. Agile. Testing in Agile 💫](#agile-)
+- [13. Test Planning 📑](#test-planning-)
 
 
 # Introduction to Software Testing 🦋
@@ -995,3 +996,22 @@ Unlike the Waterfall model, the V-model integrates test processes throughout the
 - The software development life cycle is an important process for any software development project. It helps create high-quality products, manage time and resources, and track progress more accurately.
 - There are different SDLC models: sequential, iterative, incremental, lean, etc.
 - It must be selected and adapted to the context of the project and product characteristics - project goal, the type of product being developed, business priorities, project risks, etc.
+
+# Test Planning 📑
+## Contextual Factors That Influence the Testing Process
+- The software development life cycle model and project methodologies being used
+- Test levels and test types being considered
+- Business domain
+- Product and project risks
+- Operational constraints, including but not limited to budgets and resources, timescales, complexity, contractual and regulatory requirements
+- Organizational policies and practices
+- Required internal and external standards
+
+## Testing Process and Activities
+- Test planning
+- Test monitoring and control
+- Test analysis
+- Test design
+- Test implementation
+- Test execution
+- Test completion
